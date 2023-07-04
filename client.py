@@ -46,7 +46,7 @@ def client_program():
         i = i + 1
 
         client_socket.setsockopt(socket.SOL_TCP, socket.TCP_NODELAY, True)
-        client_socket.send(pkt.encode())  # send message
+        client_socket.send(pkt.encode())
         
         start_index = x + 1 
     
