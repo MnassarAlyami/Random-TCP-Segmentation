@@ -1,6 +1,6 @@
 # Random-TCP-Segmentation
 
-A Python script implements the random segmentation algorithm from the paper "Random Segmentation: New Traffic Obfuscation Against Packet-Size Based Side-Channel Attacks."
+A Python script implements the random segmentation algorithm from the paper "Random Segmentation: New Traffic Obfuscation Against Packet-Size based Side-Channel Attacks."
 
 Environment: Python 3.10.11
 
